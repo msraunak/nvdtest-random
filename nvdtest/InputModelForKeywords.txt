@@ -1,0 +1,8 @@
+#Input Model for Generating Keywords 
+(	{	quote	/	backslash	sp	NUL	%	[	~	`	!	'
+denial	OS	buffer	server	inject	injection	attackers
+sp	/	-	NUL
+and	or	ampamp	amp	pipepipe	pipe
+sp	/	-	NUL
+2	360	serverice	overflow	inject	injection	NUL
+]	)	}	quote	/	backslash	sp	NUL	%	~	'	!	`
