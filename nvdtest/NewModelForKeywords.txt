@@ -1,0 +1,6 @@
+# New Input Model for Generating Keywords (Input Model 3) 
+(	{	[	quote	sp	NUL	~	!	`
+denial	OS	buffer	server	inject	attackers	NUL
+and	or	amp		pipe	sp	NUL	-	/	backslash
+2	360	service	overflow	injection	NUL
+)	}	]	quote	sp	NUL	%	'
